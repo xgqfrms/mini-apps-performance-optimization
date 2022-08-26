@@ -11,3 +11,15 @@
 - plugin 一个开发插件目录，给小程序项目测试插件异步化用的
 - `server` Go 编写的后端程序源码，基于 `iris` 框架构建
 
+
+## 使用 GO `gin` web 框架 实现热更新
+
+```sh
+# install go package???
+# 安装 Gin 软件包
+$ go get -u github.com/gin-gonic/gin
+
+
+# export DEBUG=true && export PORT=8080 && gin --appPort=8080 --port=3000 run main.go
+
+```
