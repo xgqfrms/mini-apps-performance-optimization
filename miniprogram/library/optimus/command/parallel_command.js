@@ -6,11 +6,6 @@
  * 在竞赛模式内，只要有一个子命令完成执行了，复合命令即算完成
  * 反之要等所有子命令全部完成
  * 
- * @author LIYI <9830131@qq.com>
- * @site https://www.yishulun.com/
- * 腾讯云TVP，公众号/视频号'网络榨知机'作者，
- * 学编程就像登山，小白学编程7天入门。
- * 
 */
 import CommandGroup from "command_group.js"
 import Iterator from "../iterator.js"

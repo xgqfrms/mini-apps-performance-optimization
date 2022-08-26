@@ -2,10 +2,6 @@
  * 一个代替wx.request的网络请求接口
  * 封装一些网络请求参数的设置，打破最大10个并发的限制，支持优先级设置
  * 
- * @author LIYI <9830131@qq.com>
- * @site https://www.yishulun.com/
- * 腾讯云TVP，公众号/视频号'网络榨知机'作者，
- * 学编程就像登山，小白学编程7天入门。
  * 
 */
 const PriorityAsyncQueue = require("priority-async-queue")

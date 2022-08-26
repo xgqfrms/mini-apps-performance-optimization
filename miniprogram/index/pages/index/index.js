@@ -1,9 +1,6 @@
 /**
  * 主页
  * 
- * @author LIYI <9830131@qq.com>
- * @site https://www.yishulun.com/
- * @wechat 9830131
  * 
  */
 const createRecycleContext = require("miniprogram-recycle-view")

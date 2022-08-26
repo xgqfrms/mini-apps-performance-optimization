@@ -1,9 +1,11 @@
 <!-- miniprogram/index/pages/index/index.wxml -->
-<import src="index.skeleton.wxml"/>
+
+<!-- <import src="index.skeleton.wxml"/>
 <text wx:if="{{loading}}">{{loadingTip}}</text>
 <template is="skeleton" wx:if="{{loading}}" />
+<view wx:else class="container"> -->
 
-<view wx:else class="container">
+<view class="container">
   <!-- 滑块视图区 -->
   <view class="top-banner" data-skeleton-hide="hideBanner">
     <swiper class="swiper" autoplay indicator-dots indicator-color="black" indicator-active-color="red">

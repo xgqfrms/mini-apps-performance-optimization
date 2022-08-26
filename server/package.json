@@ -11,6 +11,6 @@
     "build_mac": "SET CGO_ENABLED=0 GOOS=darwin GOARCH=amd64 && go build -o ../go_dist/minigame_server_mac.exe main.go && cp -rf ./static ../go_dist/ && cp -rf ./views ../go_dist/",
     "build_linux": "SET CGO_ENABLED=0 GOOS=linux GOARCH=amd64 && go build -o ../go_dist/minigame_server_linux.exe main.go && cp -rf ./static ../go_dist/ && cp -rf ./views ../go_dist/"
   },
-  "author": "LIYI <9830131@qq.com>",
+  "author": "xgqfrms",
   "license": "MIT"
 }

@@ -2,10 +2,6 @@
 /**
  * 事件派发者对象
  * 
- * @author LIYI <9830131@qq.com>
- * @site https://www.yishulun.com/
- * 腾讯云TVP，公众号/视频号'网络榨知机'作者，
- * 学编程就像登山，小白学编程7天入门。
  * 
 */
 class EventDispatcher {

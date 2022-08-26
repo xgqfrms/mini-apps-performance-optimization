@@ -2,10 +2,6 @@
  * 这是拉取首页数据的操作
  * 因为在两个地方用到了，所以把它抽离了出来
  * 
- * @author LIYI <9830131@qq.com>
- * @site https://www.yishulun.com/
- * 腾讯云TVP，公众号/视频号'网络榨知机'作者，
- * 学编程就像登山，小白学编程7天入门。
  * 
 */
 // miniprogram/library/services/retrieve_home_data.js

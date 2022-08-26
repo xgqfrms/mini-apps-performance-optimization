@@ -2,10 +2,6 @@
 /**
  * 命令基类，它也可以独立用于复合命令队列中
  * 
- * @author LIYI <9830131@qq.com>
- * @site https://www.yishulun.com/
- * 腾讯云TVP，公众号/视频号'网络榨知机'作者，
- * 学编程就像登山，小白学编程7天入门。
  * 
 */
 import EventDispatcher from "../event_dispatcher.js"

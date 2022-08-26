@@ -4,10 +4,6 @@
  * 下次要用，需要重新发起。
  * 注意，如果监听的事件一直不来，代码阻塞会被阻塞
  * 
- * @author LIYI <9830131@qq.com>
- * @site https://www.yishulun.com/
- * 腾讯云TVP，公众号/视频号'网络榨知机'作者，
- * 学编程就像登山，小白学编程7天入门。
  * 
 */
 export default function promisifyOn(fn, off) {

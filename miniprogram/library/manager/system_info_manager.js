@@ -2,10 +2,6 @@
  * 系统信息管理器，获取屏幕宽高、胶囊按钮大小等信息
  * 文档：
  * 
- * @author LIYI <9830131@qq.com>
- * @site https://www.yishulun.com/
- * 腾讯云TVP，公众号/视频号'网络榨知机'作者，
- * 学编程就像登山，小白学编程7天入门。
  * 
 */
 // miniprogram/library/manager/system_info_manager.js

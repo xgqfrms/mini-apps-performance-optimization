@@ -2,10 +2,6 @@
  * 让静态目录下的本地文件，上传至腾讯云cos的脚本
  * 结果以json的格式保存到cos_urls.json文件中
  * 
- * @author LIYI <9830131@qq.com>
- * @site https://www.yishulun.com/
- * 腾讯云TVP，公众号/视频号'网络榨知机'作者，
- * 学编程就像登山，小白学编程7天入门。
  * 
 */
 // tools/upload.js
