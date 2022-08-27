@@ -1,1 +1,0 @@
-<view class="btn" hover-class="btn__hover"><slot></slot></view>

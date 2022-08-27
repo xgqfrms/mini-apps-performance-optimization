@@ -1,4 +1,0 @@
-<view class="stopwatch" catchtap="switch">
-	<view><slot></slot></view>
-	<view>{{text}}</view>
-</view>

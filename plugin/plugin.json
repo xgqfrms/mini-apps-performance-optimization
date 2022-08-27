@@ -1,7 +1,0 @@
-{
-  "publicComponents": {},
-  "pages": {
-    "plugin-index": "page/index"
-  },
-  "main": "index.js"
-}

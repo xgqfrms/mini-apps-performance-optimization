@@ -1,8 +1,0 @@
-.stopwatch {
-  font-family: monospace;
-  font-size: 32px;
-  text-align: center;
-  display: block;
-  margin: 60rpx;
-  color: #af0000;
-}
